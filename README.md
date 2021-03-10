@@ -1,4 +1,4 @@
-# FenixPI-KDE
+
 <h2>Click on the image to play the video:</h2><br><br>
 
 [![Watch the video](https://img.youtube.com/vi/IAFghWV7OOE/maxresdefault.jpg)](https://youtu.be/IAFghWV7OOE)
